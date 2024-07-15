@@ -236,3 +236,20 @@ D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\MovieDB\obj\Debug\NMT Check.app
 D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csprojAssemblyReference.cache
 D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csproj.CoreCompileInputs.cache
 D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csproj.CopyComplete
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\bin\Debug\NMT Check.exe.config
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\bin\Debug\NMT Check.exe.manifest
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\bin\Debug\NMT Check.application
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\bin\Debug\NMT Check.exe
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\bin\Debug\NMT Check.pdb
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\bin\Debug\Mono.Security.dll
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csprojAssemblyReference.cache
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.cache
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csproj.CoreCompileInputs.cache
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\NMT Check.TrustInfo.xml
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\NMT Check.exe.manifest
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\NMT Check.application
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\JigQuick.csproj.CopyComplete
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\NMT Check.exe
+D:\thaivanphuc\Git_nidecSHTP\NMT-Duplicate-check\NMT-Duplicate-check\MovieDB\obj\Debug\NMT Check.pdb

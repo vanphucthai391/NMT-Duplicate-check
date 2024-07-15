@@ -648,7 +648,7 @@ namespace JigQuick
         private void lblModel_SelectedIndexChanged(object sender, EventArgs e)
         {
             lblCounter.Visible = true;
-            if (lblModel.Text == "BMS_0057" || lblModel.Text == "BMS_0058" || lblModel.Text == "LS12_003K" || lblModel.Text == "LS12_003E" || lblModel.Text == "LS12_003F" || lblModel.Text == "LS12_003L" || lblModel.Text == "BMS_0214" || lblModel.Text == "BMS_0215" || lblModel.Text == "BMS_0069" || lblModel.Text == "BMS_0070" || lblModel.Text == "BMS_0314")
+            if (lblModel.Text == "BMS_0057" || lblModel.Text == "BMS_0058" || lblModel.Text == "LS12_003K" || lblModel.Text == "LS12_003E" || lblModel.Text == "LS12_003F" || lblModel.Text == "LS12_003L" || lblModel.Text == "BMS_0214" || lblModel.Text == "BMS_0215" || lblModel.Text == "BMS_0069" || lblModel.Text == "BMS_0070" || lblModel.Text == "BMS_0314" || lblModel.Text == "BMS_0362")
             {
                 targetProcessCount = 2;
                 txtResultDetail.Visible = true;

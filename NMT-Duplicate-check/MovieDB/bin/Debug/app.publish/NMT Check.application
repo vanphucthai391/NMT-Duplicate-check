@@ -14,7 +14,7 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="NMT Check.exe.manifest" size="6355">
+    <dependentAssembly dependencyType="install" codebase="Application Files\NMT Check_3_0_1_4\NMT Check.exe.manifest" size="6355">
       <assemblyIdentity name="NMT Check.exe" version="3.0.1.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
